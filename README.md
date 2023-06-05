@@ -49,6 +49,10 @@
  The entry criteria in the Test Planning phase have been achieved and the test process can continue.  
  
  ### 1.2 **Test Monitoring and Control**
+ #### Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
+ 
+ ![image]()
+ 
  
     
 
