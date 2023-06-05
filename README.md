@@ -1,1 +1,55 @@
-# Manual-Testing-Portofolio
+
+
+# Manual Testing Project
+
+#### Application under test - [OpenCart](https://demo.opencart.com)
+#### API Documentation - <http://docs.opencart.com>
+#### The project will be split in two sections - Testing section and SQL section
+#### Tools used - JIRA, Zephyr Squad, Postman, MySQL Workbench
+
+## Functional specifications
+
+***
+
+## 1 Testing Section
+
+### 1.1 **Test planning**
+#### The test plan describes the testing approach and overall framework that will drive the testing of the [OpenCart](https://demo.opencart.com) application.
+#### The plan defines the approach, objectives, scope, and deliverables of the testing activities of this project. The plan identifies the items to be tested, types of testing that will be conducted, personnel responsible for testing, resources required, schedule and timeline, and risks associated with the plan.
+
+1.1.1 **Roles assigned to the Project and persons allocated**:  
+- Project Manager - Andrei Popescu  
+- Product Qwner - Madalina Ionescu  
+- Sofware Developer - Gabriela Tomescu  
+- QA Engineer - Sabina Buruiana  
+
+1.1.2 **Entry criteria defined**:  
+- Functional specifications are defined  
+- Roles needed for the project are allocated  
+- Test environment must be in place and ready for usage  
+- Access to the test environment was provided to the test team  
+    ***
+    
+ 1.1.3 **Exit criteria defined**:  
+ -  Test scripts executed   
+ - Major priority defects have been closed  
+ -  All expected and actual results are captured and documented with the test scripts  
+ - All defects were logged  
+    ***
+    
+ 1.1.4 **Test scope**:  
+ - Tests in scope: all the features of the Dependents module which were defined in software requirement specs need to be tested: functional testing, GUI testing, and API testing  
+ - Tests not in scope: performance testing, integration of the dependents module with other modules, compatibility testing with other browsers
+ 
+ 1.1.5 **Risks detected**:  
+ - Project risks: lack of experience of the QA team, development delays (resources constraints, changes in requirements, inadequate project management), competitive landscape  
+ - Product risks:  insufficient or unclear documentation, user experience (a subpar user experience, complex navigation), confusing user interfaces, 
+    upgrades and maintenance
+ 1.1.6 **Evaluating entry criteria
+ The entry criteria in the Test Planning phase have been achieved and the test process can continue.  
+ 
+ ### 1.2 **Test Monitoring and Control**
+ 
+    
+
+
