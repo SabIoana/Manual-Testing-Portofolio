@@ -44,8 +44,9 @@
  1.1.5 **Risks detected**:  
  - Project risks: lack of experience of the QA team, development delays (resources constraints, changes in requirements, inadequate project management), competitive landscape  
  - Product risks:  insufficient or unclear documentation, user experience (a subpar user experience, complex navigation), confusing user interfaces, 
-    upgrades and maintenance
- 1.1.6 **Evaluating entry criteria
+    upgrades and maintenance  
+    
+ 1.1.6 **Evaluating entry criteria**  
  The entry criteria in the Test Planning phase have been achieved and the test process can continue.  
  
  ### 1.2 **Test Monitoring and Control**
