@@ -2,9 +2,10 @@
 
 # Manual Testing Project
 
+#### The final project for the ITF Manual Testing aims to provide hands-on experience and practical application of the knowledge acquired throughout the course. It involves working with a real-life application to showcase proficiency in manual testing techniques. By utilizing the learned concepts and methodologies, the project offers an  opportunity to demonstrate my skills in a practical setting and gain valuable experience in testing live software application.
 #### Application under test - [OpenCart](https://demo.opencart.com)
 #### API Documentation - <http://docs.opencart.com>
-#### The project will be split in two sections - Testing section and SQL section
+#### The project will be split into two sections - Testing section and SQL section
 #### Tools used - JIRA, Zephyr Squad, Postman, MySQL Workbench
 
 ## Functional specifications
