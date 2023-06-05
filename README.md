@@ -51,7 +51,7 @@
  ### 1.2 **Test Monitoring and Control**
  #### Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
  
- ![image]()
+ ![image](https://github.com/SabIoana/Manual-Testing-Portofolio/blob/main/Test%20execution%20chart.png)
  
  
     
