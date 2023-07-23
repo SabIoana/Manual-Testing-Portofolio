@@ -3,19 +3,21 @@
 # Manual Testing Project
 
 #### The final project for the ITF Manual Testing aims to provide hands-on experience and practical application of the knowledge acquired throughout the course. It involves working with a real-life application to showcase proficiency in manual testing techniques. By utilizing the learned concepts and methodologies, the project offers an  opportunity to demonstrate my skills in a practical setting and gain valuable experience in testing live software application.
-#### Application under test - [OpenCart](https://demo.opencart.com)
-#### API Documentation - <http://docs.opencart.com>
+#### Application under test - [OrangeHRM](https://opensource-demo.orangehrmlive.com/)
+#### API Documentation - <https://orangehrm.github.io/orangehrm-api-doc/>
 #### The project will be split into two sections - Testing section and SQL section
 #### Tools used - JIRA, Zephyr Squad, Postman, MySQL Workbench
 
 ## Functional specifications
+#### The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon.
+
 
 ***
 
 ## 1 Testing Section
 
 ### 1.1 **Test planning**
-#### The test plan describes the testing approach and overall framework that will drive the testing of the [OpenCart](https://demo.opencart.com) application.
+#### The test plan describes the testing approach and overall framework that will drive the testing of the [OrangeHRM](https://opensource-demo.orangehrmlive.com/) application.
 #### The plan defines the approach, objectives, scope, and deliverables of the testing activities of this project. The plan identifies the items to be tested, types of testing that will be conducted, personnel responsible for testing, resources required, schedule and timeline, and risks associated with the plan.
 
 1.1.1 **Roles assigned to the Project and persons allocated**:  
