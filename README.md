@@ -78,7 +78,7 @@
 
 
  ### 1.4 **Test Design**
- #### The stories parent is an epic and can be viewed here: 
+ #### The stories parent is an epic and can be viewed here: [Epic](https://github.com/SabIoana/Manual-Testing-Portofolio/blob/main/Epic.pdf)
  
  
     
