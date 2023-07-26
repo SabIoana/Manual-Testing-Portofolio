@@ -58,6 +58,20 @@
  #### Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
  
  ![image](https://github.com/SabIoana/Manual-Testing-Portofolio/blob/main/Test%20execution%20chart.png)
+
+ ### 1.3 **Test Analysis**
+ #### The testing process will be executed based on the above requirements for the Admin and Recruitment module. The following test conditions were found:
+ - Verify that dependants are successfully created or updated when data is entered in mandatory fields
+ - Ensure dependants are created or updated when data is provided for all available fields
+ - Ensure the addition of new job categories with or without leading whitespace characters
+ - Verify the functionality of the Delete, Edit, Search, and Reset features in the system
+ - Validate the usability and visual feedback of buttons
+ - Confirm proper handling of creation and deletion scenarios
+ - Enter data only for mandatory fields and check that the user is created/updated
+ - Confirm that the admin can shortlist candidates and their status is updated accordingly
+ - Check if file downloads are successful when the admin clicks on the download option
+ - Verify the clickability of the download icon and arrow-down icon buttons
+ - Validate the Admin's ability to save phone numbers with varying character lengths and specific patterns
  
  
     
