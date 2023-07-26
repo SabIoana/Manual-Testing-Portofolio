@@ -11,7 +11,9 @@
 ## Functional specifications
 #### The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon.
 
-![Story1](https://github.com/SabIoana/Manual-Testing-Portofolio/assets/135150327/9e2fa096-f0ad-4c0d-8e00-e4a2e8245173)
+![Story1](https://github.com/SabIoana/Manual-Testing-Portofolio/assets/135150327/ffa22ee4-dc60-4ec3-9d69-b83797d86812)
+
+
 
 
 ***
@@ -57,7 +59,8 @@
  ### 1.2 **Test Monitoring and Control**
  #### Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
  
- ![image](https://github.com/SabIoana/Manual-Testing-Portofolio/blob/main/Test%20execution%20chart.png)
+ ![testcycle](https://github.com/SabIoana/Manual-Testing-Portofolio/assets/135150327/89dd055c-ac64-45e0-8e70-31563b2d9407)
+
 
  ### 1.3 **Test Analysis**
  #### The testing process will be executed based on the above requirements for the Admin and Recruitment module. The following test conditions were found:
