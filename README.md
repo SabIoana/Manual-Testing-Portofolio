@@ -75,6 +75,10 @@
  - Check if file downloads are successful when the admin clicks on the download option
  - Verify the clickability of the download icon and arrow-down icon buttons
  - Validate the Admin's ability to save phone numbers with varying character lengths and specific patterns
+
+
+ ### 1.4 **Test Design**
+ #### The stories parent is an epic and can be viewed here: 
  
  
     
