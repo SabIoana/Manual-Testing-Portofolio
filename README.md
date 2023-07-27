@@ -79,6 +79,7 @@
 
  ### 1.4 **Test Design**
  #### The stories parent is an epic and can be viewed here: [Epic](https://github.com/SabIoana/Manual-Testing-Portofolio/blob/main/Epic.pdf)
+ #### Based on the analysis of the specifications, the stories were created in Jira and can be viewed here: [Story]()
  
  
     
