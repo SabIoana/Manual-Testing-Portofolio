@@ -97,7 +97,7 @@
  
  ![testcase](https://github.com/SabIoana/Manual-Testing-Portofolio/assets/135150327/9a74f07f-755b-41bc-b148-d0a648a3231f)
  
- #### The test cases with steps can be viewed here:[Test Cases](https://github.com/SabIoana/Manual-Testing-Portofolio/blob/main/Zephyr%20Test%20Cases.pdf)
+ #### The test cases with steps can be viewed here: [Test Cases](https://github.com/SabIoana/Manual-Testing-Portofolio/blob/main/Zephyr%20Test%20Cases.pdf)
 
 
  ### 1.5 **Test Implementation**
