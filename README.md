@@ -110,7 +110,7 @@
  - Authorization token was created for accessing the API
 
 ### 1.6 **Test Execution**
-- Test cases are executed on the created test Cycle Summary:
+- Test cases are executed on the created test Cycle Summary: [Test execution](https://github.com/SabIoana/Manual-Testing-Portofolio/blob/main/Zephyr_Cycle_Summary_Execution.pdf)
 - Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs](https://github.com/SabIoana/Manual-Testing-Portofolio/blob/main/Bugs.pdf)
      - "+Add" button is not green
      - Admin cannot add a new job title with special characters
