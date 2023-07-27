@@ -79,7 +79,20 @@
 
  ### 1.4 **Test Design**
  #### The stories parent is an epic and can be viewed here: [Epic](https://github.com/SabIoana/Manual-Testing-Portofolio/blob/main/Epic.pdf)
- #### Based on the analysis of the specifications, the stories were created in Jira and can be viewed here: [Story]()
+ #### Based on the analysis of the specifications, the stories were created in Jira and can be viewed here: [Story](https://github.com/SabIoana/Manual-Testing-Portofolio/blob/main/Story.pdf)
+ - User Management - Add Users
+ - User Management - Delete Users
+ - User Management - Edit Users
+ - User Management - Reset/Search Users
+ - Job - Job Titles
+ - Job - Pay Grades
+ - Job - Employment Status
+ - Job - Job Categories
+ - Job - Work Shifts
+ - Organization - General Information
+ - Organization - Location
+ - Recruitment - Candidates
+ - Release new Recruitment Module
  
  
     
