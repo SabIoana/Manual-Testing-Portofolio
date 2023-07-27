@@ -100,7 +100,7 @@
  #### The test cases with steps can be viewed here:
 
 
- ### 1.5 **Test Implementation
+ ### 1.5 **Test Implementation**
  #### The following elements are needed to be ready before the test execution phase begins:
  - Test environment is up and running: https://opensource-demo.orangehrmlive.com/
  - Access to the testing environment is given: Username : Admin | Password : admin123
