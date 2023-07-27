@@ -119,8 +119,10 @@
 
  ### 1.7 Test Completion
    - The decision about the Go-live plans will be made by PM with close cooperation with client and project team
-   - The traceability matrix was generated and can be found here: 
-   
+   - The traceability matrix was generated and can be found here: [Traceability matrix](https://github.com/SabIoana/Manual-Testing-Portofolio/blob/main/Traceability%20Matrix.xlsx)
+   - Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 27
+   - A number of 28 test cases were planned for execution and all of them were executed
+   - A number of 5 total bugs were found, from which the priority is: 5 are medium and 1 is low
  
  
     
