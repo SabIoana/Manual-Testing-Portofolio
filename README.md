@@ -108,7 +108,19 @@
  - Authorization token was created for accessing the API
 
 ### 1.6 **Test Execution**
-- Test cases are executed on the created test Cycle Summary: 
+- Test cases are executed on the created test Cycle Summary:
+- Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs](https://github.com/SabIoana/Manual-Testing-Portofolio/blob/main/Bugs.pdf)
+     - "+Add" button is not green
+     - Admin cannot add a new job title with special characters
+     - Admin cannot edit details by clicking on the currency name
+     - Phone number is saved by entering the 10(Zero) in the text box "0000000000"
+     - Phone number can be saved with few characters than expected
+
+
+ ### 1.7 Test Completion
+   - The decision about the Go-live plans will be made by PM with close cooperation with client and project team
+   - The traceability matrix was generated and can be found here: 
+   
  
  
     
