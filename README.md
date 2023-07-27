@@ -59,7 +59,7 @@
  ### 1.2 **Test Monitoring and Control**
  #### Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
  
- ![testcycle](https://github.com/SabIoana/Manual-Testing-Portofolio/assets/135150327/89dd055c-ac64-45e0-8e70-31563b2d9407)
+ ![Test Execution By Test Cycle](https://github.com/SabIoana/Manual-Testing-Portofolio/assets/135150327/232f7178-2e17-4659-a805-15419d20fa57)
 
 
  ### 1.3 **Test Analysis**
