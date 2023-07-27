@@ -49,9 +49,15 @@
  - Tests not in scope: performance testing, integration of the dependents module with other modules, compatibility testing with other browsers
  
  1.1.5 **Risks detected**:  
- - Project risks: lack of experience of the QA team, development delays (resources constraints, changes in requirements, inadequate project management), competitive landscape  
- - Product risks:  insufficient or unclear documentation, user experience (a subpar user experience, complex navigation), confusing user interfaces, 
-    upgrades and maintenance  
+ - Project risks:
+      - Lack of experience in the QA team
+      - Development delays (resources constraints, changes in requirements, inadequate project management),
+      - Competitive landscape  
+ - Product risks:
+      - Insufficient or unclear documentation
+      - User experience (a subpar user experience, complex navigation)
+      - Confusing user interfaces
+      - Upgrades and maintenance  
     
  1.1.6 **Evaluating entry criteria**  
  The entry criteria in the Test Planning phase have been achieved and the test process can continue.  
