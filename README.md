@@ -94,6 +94,7 @@
  - Recruitment - Candidates
  - Release new Recruitment Module
  #### Test Cases
+ ![testcase](https://github.com/SabIoana/Manual-Testing-Portofolio/assets/135150327/9a74f07f-755b-41bc-b148-d0a648a3231f)
  
  
     
