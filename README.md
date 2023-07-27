@@ -94,7 +94,9 @@
  - Recruitment - Candidates
  - Release new Recruitment Module
  #### Test Cases
+ 
  ![testcase](https://github.com/SabIoana/Manual-Testing-Portofolio/assets/135150327/9a74f07f-755b-41bc-b148-d0a648a3231f)
+ 
  #### The test cases with steps can be viewed here:
 
 
@@ -115,6 +117,7 @@
      - Admin cannot edit details by clicking on the currency name
      - Phone number is saved by entering the 10(Zero) in the text box "0000000000"
      - Phone number can be saved with few characters than expected
+     - Phone number can be saved with more characters than expected
 
 
  ### 1.7 Test Completion
@@ -123,6 +126,8 @@
    - Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 27
    - A number of 28 test cases were planned for execution and all of them were executed
    - A number of 5 total bugs were found, from which the priority is: 5 are medium and 1 is low
+     
+![test_executuin_chart](https://github.com/SabIoana/Manual-Testing-Portofolio/assets/135150327/2b76cc39-57aa-4b3f-83c2-205772748908)
  
  
     
