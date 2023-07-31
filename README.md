@@ -134,7 +134,12 @@
    - A number of 6 total bugs were found, from which the priority is: 5 are medium and 1 is low
      
 ![test_executuin_chart](https://github.com/SabIoana/Manual-Testing-Portofolio/assets/135150327/2b76cc39-57aa-4b3f-83c2-205772748908)
- 
+
+
+ ## SQL Section
+
+ #### Created a database named "OrangeHRM" and a table named "users"  with all the columns needed to save data per specifications
+ Performed different queries inside the SQL file: [SQL file](https://github.com/SabIoana/Manual-Testing-Portofolio/blob/main/OrangeHRM'_users.sql)
  
     
 
